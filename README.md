@@ -4,6 +4,8 @@ An AI-powered web application that helps users generate professional emails from
 This full-stack project is built with **React (frontend)** and **Spring Boot (backend)**.
 
 ---
+## 🚀 Preview Image
+!["image"](https://github.com/kavya-ux-2/Email_Ai_Assistant/blob/663e4d7e0cec83d0e63f79b6890891a6fbabed36/Screenshot%202025-06-16%20123803.png)
 
 ## 🚀 Features
 
