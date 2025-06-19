@@ -1,6 +1,6 @@
 # 📧 Email AI Assistant
 
-An AI-powered web application that helps users generate professional emails from simple prompts.  
+An AI-powered web application that helps users generate professional emails replays from simple prompts.  
 This full-stack project is built with **React (frontend)** and **Spring Boot (backend)**.
 
 ---
